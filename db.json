@@ -2,7 +2,7 @@
     "Slides": [
     {
         "_id": 1,
-        "bgImg": "../src/assets/xmas-1.png",
+        "bgImg": "/xmas-1.png",
         "title": "1 Merry Christmas",
         "subtitle": "1 subtitle",
         "description": "1 description",
@@ -10,7 +10,7 @@
     },
     {
         "_id": 2,
-        "bgImg": "../src/assets/xmas-2.png",
+        "bgImg": "/xmas-2.png",
         "title": "2 Title",
         "subtitle": "2 subtitle",
         "description": "2 description",
@@ -18,7 +18,7 @@
     },
     {
         "_id": 3,
-        "bgImg": "../src/assets/xmas-3.png",
+        "bgImg": "/xmas-3.png",
         "title": "3 Title",
         "subtitle": "3 subtitle",
         "description": "3 description",
@@ -26,7 +26,7 @@
     },
     {
         "_id": 4,
-        "bgImg": "../src/assets/xmas-4.png",
+        "bgImg": "/xmas-4.png",
         "title": "4 Title",
         "subtitle": "4 subtitle",
         "description": "4 description",
